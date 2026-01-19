@@ -44,10 +44,4 @@ composer dump-autoload
 php artisan serve
 ~~~
 
-### Author Info
-~~~
-Name: Rashiqul Rony
-Senior Software Engineer at
-Datasoft Systems Bangladesh Limited
-Email: rashiqulrony@gmail.com
-~~~
+
